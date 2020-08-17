@@ -1,0 +1,11 @@
+2019-4-1 13:32:40 [190] User3 logs in 
+2019-4-1 13:33:45 [123] User1 logs in 
+2019-4-1 13:33:45 [123] User1 goes to search page 
+2019-4-1 13:33:46 [123] User1 types in search text 
+2019-4-1 13:33:48 [256] User2 logs in 
+2019-4-1 13:33:49 [190] User3 runs some job 
+2019-4-1 13:33:50 [123] User1 clicks search button 
+2019-4-1 13:33:53 [256] User2 does something 
+2019-4-1 13:33:54 [123] ERROR: Some exception occured 
+2019-4-1 13:33:56 [256] User2 logs off 
+2019-4-1 13:33:57 [190] ERROR: Invalid input 
