@@ -4,7 +4,7 @@
 This project is to developed a jar application to compute the log files and produce a summary report of the lookup logs.
 
 ## Features
-1. Able to scannning multiple logs file at one time
+1. Ability to scan for a multiple log files
 2. For now support for a "error" type of log information
 3. Compute the "error" type of log into log report summary
 4. The application will included maximum 3 most recent "info" log information before the error occured
