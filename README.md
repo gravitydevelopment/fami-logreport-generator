@@ -42,8 +42,8 @@ INFO:: Scanning :20190501133360_log.log
 
 INFO:: Total scanned log files :2
 ```
-5. The application will produce a log summary report with a format "log_report_<timestamp>.txt"
-6. After the two(2) logs file were scanned, the content of the "log_report_<timestamp>.txt" should looks like:
+5. The application will produce a log summary report with a format "log_report_ < timestamp > .txt"
+6. After the two(2) logs file were scanned, the content of the "log_report_ < timestamp > .txt" should looks like:
 ```
 -----20190401133345_log.log----- 
 
